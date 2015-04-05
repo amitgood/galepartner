@@ -1,0 +1,18 @@
+{
+  "articleid":"1",
+  "rank":"1",  
+  "relatedid": [
+    1,
+    2,
+    3
+  ],
+  "articlename": true,
+  "author": "Amit D",
+  "lastupdated": 123,
+  "mainImage":"http://placekitten.com/1000/200",
+  "contentImage1":"http://placekitten.com/200/300", 
+  "contentImage2":"http://placekitten.com/200/300", 
+  "contentImage3":"http://placekitten.com/200/300", 
+  "shortdescription":"This is Some Awesome Featured Content ",
+  "content": "1This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured ContentThis is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content Some Awesome Featured Content"
+}

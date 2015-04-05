@@ -1,0 +1,61 @@
+{
+    "Type":"Entertainment",
+    "relatedid": [
+      {"articlid": "1231"},
+      {"articlid": "1236"},
+      {"articlid": "1239"},
+      {"articlid": "1237"}
+    ],
+
+    "list": [
+    {  
+      "articlid": "1231",
+      "articlename": "MyArticle 1",
+      "author": "Amit Dixit",
+      "lastupdated": "May 15, 2014",
+      "rank":"1",  
+      "shortdescription": "This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content"
+    },
+    {  
+      "articlid": "1232",
+      "articlename": "MyArticle 2",
+      "author": "Ashish Bansal",
+      "lastupdated": "April 01, 2015",
+      "rank":"6",  
+      "shortdescription": "This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content"
+    },
+    {  
+      "articlid": "1233",
+      "articlename": "MyArticle 3",
+      "author": "Sanjay K",
+      "lastupdated": "April 01, 2015",
+      "rank":"5",  
+      "shortdescription": "This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content"
+    },
+    {  
+      "articlid": "1234",
+      "articlename": "MyArticle 4",
+      "author": "Amit Dixit",
+      "lastupdated": "April 02, 2015",
+      "rank":"2",  
+      "shortdescription": "This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content"
+    },
+    {  
+      "articlid": "1235",
+      "articlename": "MyArticle 5",
+      "author": "Amit Dixit",
+      "lastupdated": "April 01, 2015",
+      "rank":"3",  
+      "shortdescription": "This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content"
+    },
+    {  
+      "articlid": "1231",
+      "articlename": "MyArticle 6",
+      "author": "Amit Dixit",
+      "lastupdated": "April 01, 2015",
+      "rank":"4",  
+      "shortdescription": "This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content This is Some Awesome Featured Content"
+    }
+
+  ]
+}
